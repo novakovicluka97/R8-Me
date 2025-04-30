@@ -419,7 +419,7 @@ function FeedbackTabs({
                   "Our most comprehensive analysis with personalized advice from attraction experts"}
               </CardDescription>
             </CardHeader>
-            <CardContent className="space-y-6">
+            <CardContent className="space-y-6 pt-4">
               {/* Social Media URL */}
               <div className="space-y-2">
                 <Label htmlFor={`social-${tab}`} className="flex items-center gap-2">
